@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">I am a Bachelor's student in Computer Science with a keen interest in software development using JavaScript.</h3>
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, React-Native and MongoDB**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abishek0057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abishek0057" height="30" width="40" /></a>
